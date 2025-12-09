@@ -10,4 +10,10 @@
 
 ## Semilog Graph
 
+![Uploading WhatsApp Image 2025-12-09 at 10.12.26_3ec5c46e.jpg…]()
+
+![WhatsApp Image 2025-12-08 at 09 41 26_3815c9aa](https://github.com/user-attachments/assets/d9cf350b-c379-496b-bdb3-9422a4e2377b)
+
+## RESULT
+
 <img width="845" height="246" alt="image" src="https://github.com/user-attachments/assets/f02add25-358b-4b00-902c-8ad7d06fe7ec" />
