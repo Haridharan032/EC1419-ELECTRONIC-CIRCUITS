@@ -1,4 +1,4 @@
-## EXP NO:2
+<img width="708" height="766" alt="image" src="https://github.com/user-attachments/assets/574887aa-e4cc-4638-910e-90d37a465710" />## EXP NO:2
 <img width="858" height="602" alt="image" src="https://github.com/user-attachments/assets/0ab70837-a8e1-408c-8a25-b8cecc6157d8" />
 <img width="823" height="236" alt="image" src="https://github.com/user-attachments/assets/29b1a1ff-3043-425c-9d36-50b3126cd5a6" />
 <img width="681" height="383" alt="image" src="https://github.com/user-attachments/assets/dff2cbda-f10f-4d7f-9aab-9aee3ee219b9" />
@@ -13,13 +13,18 @@
 <img width="592" height="645" alt="image" src="https://github.com/user-attachments/assets/4946746e-b580-46e5-b577-5780890576ea" />
 
 
-## Tabulation
 
 ## Graph
+![WhatsApp Image 2025-12-08 at 09 41 28_0ef08a00](https://github.com/user-attachments/assets/1d69620b-3c5a-444a-a189-94adb6284544)
+
+<img width="708" height="766" alt="image" src="https://github.com/user-attachments/assets/7533d3fd-c322-482c-8b09-cabb27446bd3" />
+
+
+##result
 
 <img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
 
-Practical frequency of Oscillation =
+Practical frequency of Oscillation = 1.086KHz
 
 
-Theoritical Frequency of Oscillation =
+Theoritical Frequency of Oscillation = 1KHz
